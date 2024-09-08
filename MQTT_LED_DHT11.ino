@@ -12,7 +12,7 @@ const char* mqttServer = "192.168.1.142";
 const int mqttPort = 1883;
 
 // Pines del LED
-const int ledPin = 2; // Cambia este valor si usas otro pin
+const int ledPin = 2;
 
 // Definimos el pin digital donde se conecta el sensor
 #define DHTPIN 16
